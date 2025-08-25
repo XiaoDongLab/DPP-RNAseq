@@ -1,4 +1,4 @@
-# RNA seq data processing pipeline
+# Data processing pipeline (DPP) for bulk RNA seq
 This is a typical data processing pipeline for bulk RNA seq data
 
 Updated date: 2022.02.18
